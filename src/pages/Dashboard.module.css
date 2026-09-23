@@ -1,0 +1,14 @@
+.page {
+  padding: 30px;
+}
+
+.page h1 {
+  margin-bottom: 25px;
+  color: #1e293b;
+}
+
+.grid {
+  display: flex;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
