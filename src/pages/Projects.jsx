@@ -1,4 +1,4 @@
-import ProjectService from "../services/ProjectService";
+import ProjectService from "../Services/ProjectService";
 import { useState , useEffect  } from "react";
 import Modal from "../components/UI/Modal/Modal";
 import ProjectList from "../components/Project/ProjectList";
